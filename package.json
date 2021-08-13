@@ -1,0 +1,22 @@
+{
+  "name": "prettier-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".prettierrc.js",
+  "dependencies": {
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-prettier": "^3.4.0",
+    "stylelint-config-prettier": "^8.0.2",
+    "prettier": "^2.3.2"
+  },
+  "devDependencies": {
+    "husky": "^7.0.1",
+    "lint-staged": "^11.1.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
